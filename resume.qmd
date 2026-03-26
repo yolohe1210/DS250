@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yin He's CV
 ---
-# Isaac Newton
+# Yin He
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Yin@applesdofall.org">Yin@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Yin_He">My wikipedia page</a>
 </div>
 
 
@@ -58,7 +58,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+He Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `1669`
 Lectiones opticæ.
@@ -68,7 +68,7 @@ etc. etc. etc.
 ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-He.shtml) patent 001
 
 
 ## Occupation

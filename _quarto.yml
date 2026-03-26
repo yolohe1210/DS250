@@ -3,15 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Yin He - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://yolohe1210.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Yin He 2026©"
     right: 
       - icon: linkedin
         href: Your_LinkedIn_URL
